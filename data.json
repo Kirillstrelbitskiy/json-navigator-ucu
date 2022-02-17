@@ -1,0 +1,113 @@
+{
+    "contributors_enabled": false,
+    "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "The voice of the #TwitterDev team and your official source for updates, news, and events, related to the #TwitterAPI.",
+    "entities": {
+        "description": {
+            "urls": []
+        },
+        "url": {
+            "urls": [
+                {
+                    "display_url": "developer.twitter.com/en/community",
+                    "expanded_url": "https://developer.twitter.com/en/community",
+                    "indices": [
+                        0,
+                        23
+                    ],
+                    "url": "https://t.co/3ZX3TNiZCY"
+                }
+            ]
+        }
+    },
+    "favourites_count": 2113,
+    "follow_request_sent": null,
+    "followers_count": 535601,
+    "following": null,
+    "friends_count": 2016,
+    "geo_enabled": true,
+    "has_extended_profile": true,
+    "id": 2244994945,
+    "id_str": "2244994945",
+    "is_translation_enabled": false,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 1929,
+    "location": "127.0.0.1",
+    "name": "Twitter Dev",
+    "notifications": null,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1633532194",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1445764922474827784/W2zEPN7U_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445764922474827784/W2zEPN7U_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_location": null,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "protected": false,
+    "screen_name": "TwitterDev",
+    "status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Feb 16 20:12:20 +0000 2022",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        14,
+                        23
+                    ],
+                    "text": "GoodBots"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/TwitterSafety/…",
+                    "expanded_url": "https://twitter.com/TwitterSafety/status/1494040671048581123",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "url": "https://t.co/GyT7Duh9Yu"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 42,
+        "favorited": false,
+        "geo": null,
+        "id": 1494041977972744200,
+        "id_str": "1494041977972744200",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status_id": 1494040671048581123,
+        "quoted_status_id_str": "1494040671048581123",
+        "retweet_count": 14,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Celebrate the #GoodBots! Today, automated account labels are available to all developer-created bot accounts. https://t.co/GyT7Duh9Yu",
+        "truncated": false
+    },
+    "statuses_count": 3863,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/3ZX3TNiZCY",
+    "utc_offset": null,
+    "verified": true,
+    "withheld_in_countries": []
+}
